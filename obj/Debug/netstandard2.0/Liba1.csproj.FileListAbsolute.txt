@@ -1,0 +1,9 @@
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\bin\Debug\netstandard2.0\Liba1.deps.json
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\bin\Debug\netstandard2.0\Liba1.dll
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\bin\Debug\netstandard2.0\Liba1.pdb
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\obj\Debug\netstandard2.0\Liba1.csprojAssemblyReference.cache
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\obj\Debug\netstandard2.0\Liba1.csproj.CoreCompileInputs.cache
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\obj\Debug\netstandard2.0\Liba1.AssemblyInfoInputs.cache
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\obj\Debug\netstandard2.0\Liba1.AssemblyInfo.cs
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\obj\Debug\netstandard2.0\Liba1.dll
+C:\Users\Fallout_Boyzzz\source\repos\Liba1\Liba1\obj\Debug\netstandard2.0\Liba1.pdb
